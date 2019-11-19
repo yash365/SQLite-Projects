@@ -1,2 +1,2 @@
 # SQLite-Projects
-Projects based on sqlite
+Android Projects based on sqlite database
